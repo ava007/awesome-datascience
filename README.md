@@ -383,7 +383,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [d3plus](https://d3plus.org/)
 - [Data-Driven Documents(D3js)](https://d3js.org/)
 - [dygraphs](https://dygraphs.com/)
-- [ECharts](https://echarts.baidu.com/index-en.html)
+- [ECharts](https://echarts.apache.org)
 - [exhibit](https://www.simile-widgets.org/exhibit/)
 - [gephi](https://gephi.org/)
 - [ggplot2](https://ggplot2.tidyverse.org/)
